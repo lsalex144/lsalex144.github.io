@@ -1,0 +1,917 @@
+/* Desktop */
+#n1_2 {
+    width: 100%;
+    height: 100%;
+    background: rgb(255, 255, 255);
+}
+
+/* menu  */
+#n3_7 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/a10a/5a59/6166960f1895742ea4d56b1ac557097c?Expires=1557100800&Signature=F6my-ynCwrYP803H5rx9XWq1dvkPc49xCbneEMM--MzF7mXg41Ei8l70uAigwjMB9MpEp8Bf23LqWOT7e78AWUO-IbT-~5AA9GAV50MMQa~hfWuFXzPtMh-pQmkfVNKSgZ0MTjr1vVjqHojWBsvNU4ZAIZTFGLWRLA-hAgdHpXiw~QO3SsRGlWKhofxnJaakDEZk0uuaI8Ax2qL-MvL38JTjqUZtrWvHkw6eOlU1D3Psw5cn89pt5MXAQTLktH9rcJMUhy2OoZC3WxgbfegJlgDRLgXNbL9mVpwOCO28DWolSdsTefLReStW25Mgtk61HIWnl4eu7X6wqGVvLsWQcg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 1400px;
+    top: 16px;
+    height: 89px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* h1 */
+#n3_1 {
+    font-family: "Roboto Slab";
+    font-size: 56px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(22, 54, 113);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 482px;
+    transform: translate(0px, 0px);
+    line-height: 65.625px;
+    height: 74px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+/* Rectangle 2 */
+#n3_8 {
+    background: rgb(196, 196, 196);
+    width: 439px;
+    height: 2px;
+    margin-top: 63px;
+}
+
+/* Rectangle */
+.n6_69 {
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.29) -1px 15px 23px 0px;
+    left: 130px;
+    width: 340px;
+    top: 501px;
+    height: 146px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: u;
+}
+
+/* hello */
+#n4_8 {
+    width: 126px;
+    height: 30px;
+    left: 221px;
+    top: 428px;
+}
+
+/* Habitability */
+#n4_5 {
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(115, 115, 115);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    right: -135.185%;
+    top: 33.33%;
+    bottom: -33.33%;
+}
+
+/* Rectangle */
+#n6_72 {
+    background: url("https://s3-alpha-sig.figma.com/img/59ee/c9f6/2e4b1185e2272da9fb5f05b4b36dd282?Expires=1557100800&Signature=fEZbgc0LXUP0hEyVXnACc~pLmatAwo3TiDiDddI7AmBFEcw6dqo5n~kqAJTALApyzF3Yz~4WJGVZsbQkkoCLVoFpL8nVeXFnV~JDVP2tJKCo43mfoIBls7A-xCk-LWDGtSUdS9~d6VWC2ceXFEaIG9wopAzNCZvknkMEaCnKXqW7U5Vsc9hDDzQYMErRIHtHtX0sa4~DfkeDBxSGyKQnGllDjxSHtqDie7hZm1cf1SSUK85bn9mJ9m4JI8pKhiqnT2JsfORK9KGKQxoZ0xu1K5y8Vqj3cV7KkiE7ydiEJ~qu3U7cYEy74gwuigs6ClyRxEyo2NTFPftYEKx7ERjhiQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA") center center / cover no-repeat rgb(196, 196, 196);
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.29) -1px 15px 23px 0px;
+    left: 555px;
+    width: 340px;
+    top: 501px;
+    height: 146px;
+}
+
+/* hello */
+#n4_9 {
+    width: 126px;
+    height: 30px;
+    left: 703px;
+    top: 438px;
+}
+
+/* 4D */
+#nI4_9-4_5 {
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(115, 115, 115);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    right: -135.185%;
+    top: 33.33%;
+    bottom: -33.33%;
+}
+
+/* Rectangle */
+#n6_68 {
+    background: url("https://s3-alpha-sig.figma.com/img/97f1/0265/31af6211d8d8c24c34bc95985149d225?Expires=1557100800&Signature=cXF2NA9lAYHvrNI0l-Rm-LABX-3VPAhjTeUd~uSyEdEIZHtVu~7Ldq4GrMPccCqzV1qV~m3Y1S3nXIFXB3eZuevmP7sGOcLKKv8-nZ1emS6TTakOU6SjOYv-UhQsJlkcSU2KmH025E1g7bIOvo7JCFiPgxXVM~kbDkxuGwwGDziOi5yvLBovoQNeI3R5d~Bo~VNuJiBWRkQh9pWXHUYEdySTyoNkd3fuwFi1afAr35Jks6ADgWC3Lo40191-I5msfEC68q9griHpbCg19mx4DZTinVzz41bP0PRwchsjy25NCTfNR4RL7FwPm1tdqBSdm6UJaqDl0~cRLpGBx8qtLQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA") center center / cover no-repeat rgb(196, 196, 196);
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.29) -1px 15px 23px 0px;
+    left: 980px;
+    width: 340px;
+    top: 501px;
+    height: 146px;
+}
+
+/* hello */
+#n4_11 {
+    width: 126px;
+    height: 30px;
+    left: 1013px;
+    top: 438px;
+}
+
+/* Theoretical Astrophysics */
+#nI4_11-4_5 {
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(115, 115, 115);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    right: -135.185%;
+    top: 33.33%;
+    bottom: -33.33%;
+}
+
+/* Rectangle */
+#n6_71 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/882b/a927/307357568042704d805e478148c8d633?Expires=1557100800&Signature=dnsieoxd1JIGyXHZ0w7MD7f4xIVtt6PW8y6nlAizNZiPqxtSbRR7aMrTZ2j2uSpe2Uo~mTDUy7XXIDBMe66U7CVSwumRJzWzOJGkYXtVgnHDOqQ2dr4BisQfmZhIJd6ovxdosznayJ-lDf4SNxBeNmohkELAG4aE6th6PyonNPRP1F2qaTN5~c67Dx8FA3u6LLRX~LC6uHOL16xxQdpwIfZzVp9fhegMZ3aXU-kjafsOyjIZJejSrh8K7nOkJrj0VpiQZ0uJIX63TlJZ51UalyjyHs3V6y8PVrCKOVUcraF59Mqd73xiKTktwgddHdaKIVWhpahvqeZYJVBYy6hzIA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(196, 196, 196);
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.29) -1px 15px 23px 0px;
+    left: 980px;
+    width: 340px;
+    top: 786px;
+    height: 146px;
+}
+
+/* hello */
+#n4_13 {
+    width: 126px;
+    height: 30px;
+    left: 1024px;
+    top: 733px;
+}
+
+/* Genomes to Ecosystems */
+#nI4_13-4_5 {
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(115, 115, 115);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    right: -135.185%;
+    top: 33.33%;
+    bottom: -33.33%;
+}
+
+/* Rectangle */
+#n6_73 {
+    background: url("https://s3-alpha-sig.figma.com/img/a504/2135/1c2eda64eca1ab76a0abbe61014fdd7f?Expires=1557100800&Signature=SqLB6F4nO4Tf1G0ZF-T9kO0Ptd4ppmLVRrXeisMOvX-TaWUiSXYC790NnCU7OrxJqib4vEk5bjf7JkgKSCBrs-SkDH-RQVQlLxHJ564WX6ZJzX5-orTxeisYbet77GNPRYwS56IzjPyXCaF9ax98Fz2GG8C0kk1casp1m7fq0fBARlHXX4daHBrta7FLsSDfOOOoa7qUqcc1Z7r1pm~lrjV8z1JWM2GE2oEM7-jYANYymZDNDPknO4DtGLLZGC-7eSxPs6HywNNZcuk18ypBPONaxcel1lH~eC2IOYkM5Rp9f5G~JZGcVa1XAfEc14DXWkuuTOGSE3etbcXfIanSZg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA") center center / cover no-repeat rgb(196, 196, 196);
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.29) -1px 15px 23px 0px;
+    left: 555px;
+    width: 340px;
+    top: 786px;
+    height: 146px;
+}
+
+/* hello */
+#n4_15 {
+    width: 126px;
+    height: 30px;
+    left: 664px;
+    top: 723px;
+}
+
+/* Exoplanets */
+#nI4_15-4_5 {
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(115, 115, 115);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    right: -135.185%;
+    top: 33.33%;
+    bottom: -33.33%;
+}
+
+/* Rectangle */
+#n6_70 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/d691/d5d9/e8b4c006ee942c3bf080830d3529c09b?Expires=1557100800&Signature=G9iurfl110Mp15ZLednuW5-Q0z0rJG3pXpDh0JVHT35yL51~d7qGypOeCFqseE25j-JrjeMqyGZLBIuKrxwZqRWfsi-4ZfNkSE-cPcKfTjKvcpH2NBZNyZJRuBuj87obBYnJh2FjXd~5grG1zLwvdNoYC4M9K7PHn6IxokNNbRakdWV6AnxD-rrR4Uo50pZhWapkRRLEoIf0I1EqZGXLXl5MUCmn4rCUNx~d29ncBLRPQ7e7ZFZxWO97rNALnOiyEecXWkwJcP-OFpI7VsJeKMjMmH9eQLBxwCNA2P7Jc0FJniyACy6amDXF2VlPB~n8qb8ispmBpY~ensSQWRMbgQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(196, 196, 196);
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.29) -1px 15px 23px 0px;
+    left: 130px;
+    width: 340px;
+    top: 786px;
+    height: 146px;
+}
+
+/* hello */
+#n4_17 {
+    width: 156px;
+    height: 30px;
+    left: 221px;
+    top: 723px;
+}
+
+/* Coral Reefs */
+#nI4_17-4_5 {
+    font-family: Lato;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(115, 115, 115);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    right: -135.185%;
+    top: 33.33%;
+    bottom: -33.33%;
+}
+
+/* Rectangle 2 */
+#n6_62 {
+    background: rgb(247, 246, 246);
+    width: 100%;
+    top: 1334px;
+    position: absolute;
+    height: 244%;
+}
+
+/* Mask Group 2 */
+#n10_13 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 639px;
+    position: absolute;
+    z-index: 0;
+    object-fit: cover;
+}
+
+/* Genomes to Ecosystems */
+#n6_57 {
+    font-family: "Roboto Slab";
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 426px;
+    transform: translate(0px, 0px);
+    line-height: 53.9063px;
+    height: 100%;
+    left: 360px;
+    top: 4893px;
+}
+
+/* Text */
+#n6_58 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 142px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 30px;
+    left: 362px;
+    top: 5165px;
+}
+
+/* The Department of Global Ecology, founded in 2002 on the campus of Stanford University, conducts basic and applied research into the interactions among Earth's ecosystems, land, atmosphere, and oceans, and people. Department faculty members, post-doctoral fellows, graduate students, and undergraduate students, plus technical and administrative staff, work to understand how our planet operates, and how it will respond to future changes. */
+#n6_59 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(240, 240, 240);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -1.6px);
+    line-height: 22.5px;
+    height: 100%;
+    left: 362px;
+    top: 5058px;
+    margin-top: 40px;
+    max-width: 467px;
+    width: 100%;
+}
+
+/* Rectangle */
+#n6_60 {
+    background: rgb(94, 182, 205);
+    border-radius: 2px;
+    width: 144px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+/* Learn more */
+#n6_61 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(35, 35, 35);
+    width: 98px;
+    line-height: 18.75px;
+    height: 100%;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Mask Group-1 */
+#n10_11 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/fb84/d5ad/be63528d49c630eb604eba5a06edf779?Expires=1557100800&Signature=Kw0AEohaxcycRgvNCV18zeZ63Ds0FPD0NGQsNh8epXkZdJIZuOdHaT7ZkoZ1~fjlNnpg4SKZ7JjzdYdCw-qkz487JSu-leDsxVdgWjgv5H3XBiq2c6djqNFb1sHWhiGSDJmR4g5GjPZ~X8Rlq6cd-53e26cTqant5j6UW~5fVGqcFY~nPbrs4yRYsrmJ0hnxQU022DmTrJE0r1n7vDQGJIZ3buoV31pGJFQksuBYqUzeJa68vDWr6S8Fk1JCaNjD3siB3mRIiPrO-LREvAjxs8RSqpZX6Ky3lBEDiXMARKuFi6eZOPmppmp~OPqZdxazBDGj~8e4-SXiDJ5gVVwJUA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    left: 122px;
+    width: 1200px;
+    top: 4071px;
+    height: 639px;
+}
+
+/* Exoplanets */
+#n6_52 {
+    font-family: "Roboto Slab";
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 426px;
+    transform: translate(0px, 0px);
+    line-height: 53.9063px;
+    height: 65px;
+    left: 720px;
+    top: 4197px;
+}
+
+/* Text */
+#n6_53 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 142px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 30px;
+    left: 722px;
+    top: 4405px;
+}
+
+/* The Department of Global Ecology, founded in 2002 on the campus of Stanford University, conducts basic and applied research into the interactions among Earth's ecosystems, land, atmosphere, and oceans, and people. Department faculty members, post-doctoral fellows, graduate students, and undergraduate students, plus technical and administrative staff, work to understand how our planet operates, and how it will respond to future changes. */
+#n6_54 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(240, 240, 240);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 467px;
+    transform: translate(0px, -1.6px);
+    line-height: 22.5px;
+    height: 286px;
+    left: 722px;
+    top: 4298px;
+}
+
+/* Rectangle */
+#n6_55 {
+    background: rgb(94, 182, 205);
+    border-radius: 2px;
+    left: 720px;
+    width: 144px;
+    top: 4529px;
+    height: 29px;
+}
+
+/* Learn more */
+#n6_56 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(35, 35, 35);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 98px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 20px;
+    left: 749px;
+    top: 4533px;
+}
+
+/* Mask Group-2 */
+#n10_10 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/b871/9361/480e99864fe060ce3c85e7641d54e3cc?Expires=1557100800&Signature=P1iv-veWmrpcL-Jsn0meIfj0Fr~GbK~v6f0P0PbpSSaniBwGmfKgvFpE7MlWmbha~PXPoaOheBqKNi6G7eyplWMo2SO~Bc4ymbrijBy0hAA6QGmjm5MLGPUxnlTqeb8DmFQ0GerbeY~4LV0Uql19YWzi36ydsBkoonH6gp3JlKbZTBmThK42s5J2~WuhEtK14a0VVtztEt49EEnQyrAAb-kT837w3XRWGuqUBdsIxZqMEfVFPLOBFPl~jqVZLd0Y5XykSR1j7Eu5lX2hGh62Vg~zQJj~qH3c7uW8x7kjCtemq3Reih0k2JIMdNOHLuzsFww-3GjQByTDjim8eIQv5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    left: 122px;
+    width: 1200px;
+    top: 3345px;
+    height: 639px;
+}
+
+/* Coral Reefs */
+#n6_47 {
+    font-family: "Roboto Slab";
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 426px;
+    transform: translate(0px, 0px);
+    line-height: 53.9063px;
+    height: 65px;
+    left: 360px;
+    top: 3471px;
+}
+
+/* Text */
+#n6_48 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 142px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 30px;
+    left: 362px;
+    top: 3679px;
+}
+
+/* The Department of Global Ecology, founded in 2002 on the campus of Stanford University, conducts basic and applied research into the interactions among Earth's ecosystems, land, atmosphere, and oceans, and people. Department faculty members, post-doctoral fellows, graduate students, and undergraduate students, plus technical and administrative staff, work to understand how our planet operates, and how it will respond to future changes. */
+#n6_49 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(240, 240, 240);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 467px;
+    transform: translate(0px, -1.6px);
+    line-height: 22.5px;
+    height: 286px;
+    left: 362px;
+    top: 3572px;
+}
+
+/* Rectangle */
+#n6_50 {
+    background: rgb(94, 182, 205);
+    border-radius: 2px;
+    left: 360px;
+    width: 144px;
+    top: 3803px;
+    height: 29px;
+}
+
+/* Learn more */
+#n6_51 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(35, 35, 35);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 98px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 20px;
+    left: 389px;
+    top: 3807px;
+}
+
+/* Mask Group-3 */
+#n10_9 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/cd29/d3e2/b54b442c9c8b522e0e8672896d77e266?Expires=1557100800&Signature=IPSIbBtmTN8OgJVFqlEid7~DcYcbZX1VD8SrpjbLxOcFzW4bd2XQhg6zDj63Qas1RDdSAUOh~WYwLaLIusNvQrL6Kj-qavkoKXfcwlheyM9tg-G0xeV2pNLANNNSaK7hUQkYcpdUm3766sB9vo4AJwEkZ5Gbk3~bhfvE07fGLih2vJesSPlg7FIcZz02jV6qrVkALOxvaRaBd~zcedtXQcVA9zJ1QhMHW2JjbjjRetcx~LyJs8cTuQ4qx-ty8-vPqCY~OgpQviBtc8sgbbvnmo-gQOsqCm11dkeJqCmJsGbtmHjM2XRudcbF69odrSEG2CKt5xnGWCquEjY1ikdVWg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    left: 120px;
+    width: 1200px;
+    top: 2619px;
+    height: 639px;
+}
+
+/* Theoretical Astrophysics */
+#n6_34 {
+    font-family: "Roboto Slab";
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 426px;
+    transform: translate(0px, 0px);
+    line-height: 53.9063px;
+    height: 65px;
+    left: 722px;
+    top: 2714px;
+}
+
+/* Text */
+#n6_35 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 142px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 30px;
+    left: 724px;
+    top: 2984px;
+}
+
+/* The Department of Global Ecology, founded in 2002 on the campus of Stanford University, conducts basic and applied research into the interactions among Earth's ecosystems, land, atmosphere, and oceans, and people. Department faculty members, post-doctoral fellows, graduate students, and undergraduate students, plus technical and administrative staff, work to understand how our planet operates, and how it will respond to future changes. */
+#n6_36 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(241, 241, 241);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 467px;
+    transform: translate(0px, -1.6px);
+    line-height: 22.5px;
+    height: 286px;
+    left: 724px;
+    top: 2877px;
+}
+
+/* Rectangle */
+#n6_37 {
+    background: rgb(94, 182, 205);
+    border-radius: 2px;
+    left: 722px;
+    width: 144px;
+    top: 3108px;
+    height: 29px;
+}
+
+/* Learn more */
+#n6_38 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(35, 35, 35);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 98px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 20px;
+    left: 751px;
+    top: 3112px;
+}
+
+/* Mask Group-4 */
+#n10_8 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/5cc6/e9ec/000f7de8c61aa350b1d04c75917c5b5f?Expires=1557100800&Signature=Vcyj3ooOvhXPWg7qLz9K7i-6sfHlmQ2veskj20xCwxyFEPDqgPMxOzuf9WQVzeYZBaU~Z2RypJUXSQrMBZrnwssX8uLKyg~akAg0IMHY-ZASO7~SPhkM14vnHFQaf1M90d6~YBaT8hPY-RL-YXt30N6-tQWz~g1R9zob~n3BjzAUDKd7IVg3ZvmK2~H8r9mUjDooBDX-lO48n-iBbop5~zVffBJCRnBMMIPX9bUf5UXZztqrJ62Z~Qb0AJJtzibnSp2MDmR4m8VyRYxF3uYhCNjw9KH2YoRo~3PoIi3I3IOtqimn7g9ZbNFIQ-HlgdlOn3jy1-v7wZet~k6V35Cp7A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    left: 120px;
+    width: 1200px;
+    top: 1893px;
+    height: 639px;
+}
+
+/* 4D */
+#n6_26 {
+    font-family: "Roboto Slab";
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 288px;
+    transform: translate(0px, 0px);
+    line-height: 53.9063px;
+    height: 65px;
+    left: 362px;
+    top: 2047px;
+}
+
+/* Text */
+#n6_27 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 142px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 30px;
+    left: 362px;
+    top: 2246px;
+}
+
+/* The Department of Global Ecology, founded in 2002 on the campus of Stanford University, conducts basic and applied research into the interactions among Earth's ecosystems, land, atmosphere, and oceans, and people. Department faculty members, post-doctoral fellows, graduate students, and undergraduate students, plus technical and administrative staff, work to understand how our planet operates, and how it will respond to future changes. */
+#n6_28 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(241, 241, 241);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 467px;
+    transform: translate(0px, -1.6px);
+    line-height: 22.5px;
+    height: 286px;
+    left: 362px;
+    top: 2139px;
+}
+
+/* Rectangle */
+#n6_29 {
+    background: rgb(94, 182, 205);
+    border-radius: 2px;
+    left: 360px;
+    width: 144px;
+    top: 2358px;
+    height: 29px;
+}
+
+/* Learn more */
+#n6_30 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(35, 35, 35);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 98px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 20px;
+    left: 389px;
+    top: 2362px;
+}
+
+/* Mask Group-5 */
+#n10_2 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/5143/58e9/8e8d3653a176d7bde834079f113611a8?Expires=1557100800&Signature=a2baWfgDIpaq6LINrXItnFWTKe1YjB7mhncvA2aWcBSnZWqq-8ggsC0gjtJIrmH2StVobGTpLzxaBPSQuTW1nvcSfa0v5DkfHllPXNAVW3BSA0fFjetH~J3EklcdDU9wk~lSdiMK91nmvC3OUdcyF78a2LERUxNuyiGQLKqSOh~cg7kXZTzhCriRlpCI3MpUHgTtRR8x4gW7RGXoqTO-wqFtVY9uq9trveONd7AnPJ9lA-raKOwprnol-Vtg50EEk~PgGPASznGg3IM88Mq3gFXMrx-SsgI0VOzi0bQvWt3svpP7ANV3zvwMufFl9BxoaSX0X3A-sP9DapqanxC6hQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    left: 122px;
+    width: 1200px;
+    top: 1167px;
+    height: 639px;
+}
+
+/* Habitability */
+#n5_15 {
+    font-family: "Roboto Slab";
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 288px;
+    transform: translate(0px, 0px);
+    line-height: 53.9063px;
+    height: 65px;
+    left: 722px;
+    top: 1286px;
+}
+
+/* Text */
+#n6_7 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 142px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 30px;
+    left: 722px;
+    top: 1485px;
+}
+
+/* The history of 20th century astronomy is inextricably linked to the Carnegie Observatories. From the revelation of the universe’s expansion to the discovery of dark energy, Carnegie Observatories scientists have transformed humankind’s understanding of the cosmos. The groundbreaking work continues today at our world-famous Las Campanas Observatory in Chile, home to the twin Magellan telescopes, and site of the future Giant Magellan Telescope. Carnegie scientists are still at the vanguard of research on galaxy formation and evolution, the chemical evolution of stars and planets, stellar variability, supernovae, and more. */
+#n6_8 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(241, 241, 241);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 467px;
+    transform: translate(0px, -1.6px);
+    line-height: 22.5px;
+    height: 286px;
+    left: 722px;
+    top: 1378px;
+}
+
+/* Rectangle */
+#n6_9 {
+    background: rgb(94, 182, 205);
+    border-radius: 2px;
+    left: 720px;
+    width: 144px;
+    top: 1649px;
+    height: 29px;
+}
+
+/* Learn more */
+#n6_10 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(35, 35, 35);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 98px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 20px;
+    left: 749px;
+    top: 1653px;
+}
+
+/* footer */
+#n6_64 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/c8cd/610a/a9d87d2ece5b0fc35c814966204e3ebc?Expires=1557100800&Signature=YKGHCDcI0gSIvte2XH13rHcrFcDhhTHeOpxniZ-qvYlLJdk9zCK2ln17ymYqq8wu6ASXl-kaU0nIwVCiiPOmB43vuRUP6T5Ln~WhDn8wecT7mwvFG6CcBwyfvYUWdAUon~pJ90o7SS5pNP0RbPGNhoP2jGnssYJJGFW0tz2JyNik08Hra7jK2w7RFYKYUHA5sRNZrUM-z1TKdVRtO4UviCv8bQodn6nVx0yiTg4ZL0fYJdJIi4MXUDB6GIbWdIalnRqKgbp3Ip18Owq962EBy6GeR3exdh~2~o3lXMRtyFzpZj2xQzrih7ioRpFpfWLi-olI-sWxI53-OdBeJgVgyg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 1201px;
+    height: 217px;
+    position: relative;
+    z-index: 2;
+    margin-top: 156px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firstblock {
+    margin-top: 138px;
+    position: static;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card_section {
+    max-width: 1190px;
+    width: 100%;
+    margin-top: 46px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 105px;
+    margin-left: 5%;
+    margin-right: 5%;
+    top: -76px;
+}
+
+.card_pictures {
+    max-width: 340px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 76px;
+}
+
+.card_pictures_2 {
+}
+
+.pictures_n6_69 {
+    background-image: url('assets/pictures/Mask%20Group-5.png');
+    transition: all 0.3s ease 0ms;
+}
+
+.second_blocl {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+
+    /* identical to box height */
+    color: #737373;
+}
+
+.card_information {
+    position: relative;
+    width: 100%;
+    height: 639px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin-top: 97px;
+    max-width: 1200px;
+}
+
+.card_pictures a:hover > img {
+    transform: translateY(-10px);
+}
+
+.card_pictures a {
+    transition: all 0.4s cubic-bezier(0.03, 0.43, 0.25, 1.00);
+}
+
+div#n9_20 p#n6_59 {
+    width: 100%;
+    max-width: 467px;
+}
