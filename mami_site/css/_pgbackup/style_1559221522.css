@@ -1,0 +1,3790 @@
+/* Desktop 2.3 */
+#n163_2 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: rgb(255, 255, 255);
+}
+
+/* über den Sprecher */
+#n163_49 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.6;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 139px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+    left: 0;
+    position: relative;
+    margin-left: 0;
+}
+
+/* Referenzen */
+#n163_50 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.6;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 86px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Kontakte */
+#n163_51 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.6;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 66px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Preis */
+#n163_52 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.6;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 35px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Veranstaltung */
+#n163_53 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.6;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 101px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* logo */
+#n163_54 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/61ba/102a/94ff888c2e5f92015e6fab375ab51890?Expires=1557705600&Signature=PzUd~XngZDJJvX-iiw7~eQ-xFDJVByWZMwsLXA~haRLLSZrk6sSryNvthy7DWHVnpj3nM~PgcmfddViYI9UxZOUp~eH319bou7ISbN2S16Q61Dgvj7ctrwDqJQw6VGGyVE9Ew1E6AEsgDL9RGZKK66aBbeeI9y04L1y1GGiUp2u7-5XmghkBLLLdnBaMQyNtORtHILd4Ci6JFcN7Kc4an71YxESe9X0KkSejCmwkyToicdqyslOsd8yto94C-jXYMBXpgTE5pHeeAh6l9N6NWD984qR9sIspBUKUnrZnFl-zuVz2FDT3t792-UpbZzFdLhScPY~wnyzPgrW~3KkYqg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 30px;
+    background-position: center center;
+    background-size: cover;
+}
+
+/* foto_hero */
+#n163_42 {
+    background-repeat: no-repeat;
+    height: 469px;
+    max-width: 829px;
+    width: 100%;
+    background-size: auto;
+}
+
+/* Liebe ist die beste medicine. */
+#n163_46 {
+    font-family: "Josefin Sans";
+    font-size: 51px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.612002px);
+    line-height: 61.2px;
+    max-width: 695px;
+    width: 55%;
+    position: relative;
+    min-height: 61px;
+}
+
+/* Für deine gesunde und glückliche Familie */
+#n163_45 {
+    font-family: "Josefin Sans";
+    font-size: 51px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.612002px);
+    line-height: 61.2px;
+    max-width: 529px;
+    width: 50%;
+    position: relative;
+    min-height: 122px;
+}
+
+/* Component */
+#n163_44 {
+    width: 248px;
+    height: 57px;
+    background: rgb(146, 218, 206);
+}
+
+/* Begleiten Sie uns */
+#nI163_44-50_28 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+}
+
+/* Folgen */
+#n163_33 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    opacity: 0.8;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 49px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Blogeintrag */
+#n163_34 {
+    font-family: Pacifico;
+    font-size: 38px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    opacity: 0.8;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 190px;
+    transform: translate(0px, 0px);
+    line-height: 44.5313px;
+    height: 67px;
+}
+
+/* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. */
+#n163_35 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 526px;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+    height: 20px;
+    margin-top: 0;
+}
+
+/* Wie geht es den Kindern aus Regenbogenfamilien eigentlich? */
+#n163_36 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 575px;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+    height: 20px;
+}
+
+/* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. */
+#n163_37 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 526px;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+    height: 20px;
+}
+
+/* Vector */
+#n163_38 {
+    width: 55px;
+    height: 1px;
+}
+
+/* Vector */
+#n163_39 {
+    width: 55px;
+    height: 1px;
+}
+
+/* Vector 2 */
+#n163_40 {
+    width: 53px;
+    height: 2px;
+}
+
+/* Rectangle 3 */
+#n163_6 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.7 */
+#n163_7 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.15 */
+#n163_8 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.8 */
+#n163_9 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.9 */
+#n163_10 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 117px;
+}
+
+/* Rectangle 3.10 */
+#n163_11 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.11 */
+#n163_12 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.12 */
+#n163_13 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.13 */
+#n163_14 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.4 */
+#n163_15 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.14 */
+#n163_16 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.5 */
+#n163_17 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.16 */
+#n163_18 {
+    background: rgb(255, 90, 76);
+    width: 116px;
+    height: 113px;
+}
+
+/* Rectangle 3.19 */
+#n163_19 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.23 */
+#n163_20 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.24 */
+#n163_21 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* s */
+#n163_22 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* s */
+#n163_23 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* B */
+#n163_24 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 36px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* z */
+#n163_25 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 41px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* o */
+#n163_26 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 49px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* g */
+#n163_27 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 43px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* C */
+#n163_28 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 40px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* v */
+#n163_29 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 41px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* I */
+#n163_30 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 18px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Y */
+#n163_31 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 40px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* bg_hero */
+#n163_4 {
+    background: rgb(254, 245, 244);
+    height: 1380px;
+}
+
+/* Rectangle 2.1 */
+#n163_63 {
+    width: 113px;
+    height: 115px;
+}
+
+/* Nächster */
+#n163_64 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.4;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 66px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+    text-align: center;
+}
+
+/* Group 9.1 */
+#n163_65 {
+    width: 46px;
+    height: 17px;
+}
+
+/* Vector 6 */
+#nI163_65-72_7 {
+    object-fit: fill;
+    background-size: cover;
+    position: relative;
+}
+
+/* Vector 7 */
+#nI163_65-72_8 {
+    width: 100%;
+    height: 100%;
+}
+
+/* Ya */
+#n163_59 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 36.3281px;
+}
+
+/* Nein */
+#n163_60 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 36.3281px;
+}
+
+/* Sie haben es satt zu googeln und brauchen jemanden, dem Sie vertrauen können? */
+#n163_61 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    transform: translate(0px, -0.372001px);
+    line-height: 37.2px;
+    max-width: 629px;
+    width: 100%;
+    position: relative;
+    min-height: 132px;
+}
+
+/* illustration1 */
+#n163_57 {
+    background-image: url('../assets/3C2E6EA5-38CC-485A-BC02-534E40A253DB.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 348px;
+    height: 345px;
+}
+
+/* Rectangle */
+#n163_56 {
+    background: rgb(173, 220, 214);
+    width: 906px;
+    height: 345px;
+}
+
+/* Rectangle */
+#n163_67 {
+}
+
+/* Hand in Hand ist deine Mamareise schöner */
+#n163_68 {
+    font-family: Pacifico;
+    font-size: 31px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 689px;
+    transform: translate(0px, 0px);
+    line-height: 44.5313px;
+    height: 67px;
+    text-align: center;
+}
+
+/* socialmedia */
+#n163_96 {
+    width: 100%;
+    height: 115px;
+    overflow: hidden;
+    background: rgb(255, 247, 221);
+    align-items: center;
+    align-self: center;
+    max-width: 680px;
+    position: relative;
+    display: block;
+    right: 0;
+    margin-left: auto;
+}
+
+/* youtube */
+#n163_98 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* facebook */
+#n163_99 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Pinterest */
+#n163_100 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 63px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* instagram */
+#n163_101 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Rectangle */
+#n163_103 {
+}
+
+/* Blog */
+#n163_104 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 33px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et */
+#n163_94 {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 17.5781px;
+    height: 100%;
+}
+
+/* My qualifications */
+#n163_93 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 201px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+}
+
+/* Detail */
+#n163_91 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 44px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* I am a paediatrician and mother of 3 children. With my homepage i address mothers, offering them medical knowledge, talk about love, compassion, parenting, education, attachment, mindfulness and in generell it is about personal development and growth. There will be other experts coming online for interviews , we want to spread scientific knowledge, combined with spirituality and positivity’s. */
+#n163_90 {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 17.5781px;
+    height: 100%;
+}
+
+/* h2_Wer bin Ich */
+#n163_88 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 222px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+}
+
+/* 1DB7AC64-59C9-4007-B1ED-0F17565137D7 */
+#n163_85 {
+    background-image: url('https://images.unsplash.com/photo-1543023177-2ef21c4a514e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80');
+    background-repeat: no-repeat;
+    width: 611px;
+    height: 802px;
+    background-size: cover;
+    background-position: right center;
+}
+
+/* separator 1 */
+#n163_82 {
+    background: rgb(146, 218, 206);
+    width: 906px;
+    height: 8px;
+    margin-top: 107px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* h3_Was mache ich */
+#n163_81 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    width: 100%;
+    line-height: 37.2px;
+    height: 37px;
+    position: relative;
+    text-align: right;
+    right: 91px;
+}
+
+/* Vector 7 */
+#n163_77 {
+    width: 10px;
+    height: 13.1632px;
+}
+
+/* Vector 7 */
+#n163_78 {
+    width: 10px;
+    height: 13.1632px;
+}
+
+/* Vector 7 */
+#n163_79 {
+    width: 10px;
+    height: 13.1632px;
+}
+
+/* Vector 7 */
+#n163_80 {
+    width: 10px;
+    height: 13.1632px;
+}
+
+/* Fortbildungen */
+#n163_73 {
+    font-family: "Open Sans";
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 158px;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    height: 34px;
+}
+
+/* Gesundheitscoaching */
+#n163_74 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 100%;
+}
+
+/* Life Coaching */
+#n163_75 {
+    font-family: "Open Sans";
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 150px;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    height: 34px;
+}
+
+/* Familienbegleitung in the member area */
+#n163_76 {
+    font-family: "Open Sans";
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 441px;
+    transform: translate(0px, 0px);
+    line-height: 29.2969px;
+    height: 34px;
+}
+
+/* Detail */
+#n163_71 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    width: 100%;
+    height: 100%;
+    margin-top: 60px;
+}
+
+/* Vector 7 */
+#n163_248 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Vector 7 */
+#n163_249 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Vector 7 */
+#n163_250 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Vector 7 */
+#n163_251 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Vector 7 */
+#n163_252 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Frage und Antwort */
+#n163_253 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Experten-Café */
+#n163_254 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Audiodateien */
+#n163_255 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Checklisten */
+#n163_256 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Merkblätter und andere Downloads */
+#n163_257 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Vorsehen */
+#n163_245 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    width: 100%;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 100%;
+    text-align: left;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+/* Rectangle 3.23 */
+#n163_244 {
+}
+
+/* Was wird */
+#n163_234 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 107px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+}
+
+/* Achtsamkeit */
+#n163_237 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+/* Männer unter sich */
+#n163_238 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+/* Selbstmitgefühl und Meditation in der Mutterschaft */
+#n163_239 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 35px;
+    align-items: center;
+    display: flex;
+}
+
+/* Vector 7 */
+#n163_240 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Vector 7 */
+#n163_241 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Vector 7 */
+#n163_242 {
+    width: 8px;
+    height: 10.5305px;
+}
+
+/* Live: */
+#n163_226 {
+    font-family: Pacifico;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 44px;
+    transform: translate(0px, 0px);
+    line-height: 24.6094px;
+    height: 37px;
+    margin-right: 25px;
+}
+
+/* Mit Dr. Mami */
+#n163_227 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+    width: 100%;
+}
+
+/* Special: */
+#n163_229 {
+    align-items: normal;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 70px;
+    transform: translate(0px, 0px);
+    line-height: 24.6094px;
+    display: flex;
+    height: 37px;
+    margin-right: 25px;
+}
+
+/* Special: Subset */
+#n163_229-66 {
+    font-family: Pacifico;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24.6094px;
+    letter-spacing: 0px;
+    align-items: normal;
+    color: rgb(255, 223, 122);
+}
+
+/* Special: Subset */
+#n163_229-65 {
+    font-family: Pacifico;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24.6094px;
+    letter-spacing: 0px;
+    align-items: normal;
+    color: rgb(14, 19, 75);
+}
+
+/* Rectangle 4 */
+#n163_231 {
+    background: rgb(255, 223, 122);
+    width: 191px;
+    height: 2px;
+}
+
+/* Papa Sprechstunde */
+#n163_232 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+}
+
+/* h2_Mitgliederbereich */
+#n163_223 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 341px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+    margin-top: 197px;
+}
+
+/* Rectangle 3.24 */
+#n163_221 {
+}
+
+/* Detail */
+#n163_222 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 44px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Rectangle 2 */
+#n163_219 {
+    background: rgb(255, 255, 255);
+    width: 1289px;
+    height: 1043px;
+}
+
+/* Veranstaltungen */
+#n163_217 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 317px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+}
+
+/* Detail */
+#n163_204 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    margin-top: 53px;
+}
+
+/* Event 1 */
+#n163_208 {
+    font-family: Pacifico;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 65px;
+    transform: translate(0px, -0.252001px);
+    line-height: 25.2px;
+    height: 25px;
+}
+
+/* Event 2 */
+#n163_209 {
+    font-family: Pacifico;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.252001px);
+    line-height: 25.2px;
+}
+
+/* Event 3 */
+#n163_210 {
+    font-family: Pacifico;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.252001px);
+    line-height: 25.2px;
+}
+
+/* Event 4 */
+#n163_211 {
+    font-family: Pacifico;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.252001px);
+    line-height: 25.2px;
+}
+
+/* Sit amet, consectetuer adipiscing elit. */
+#n163_213 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Aenean massa. Cum sociis. */
+#n163_214 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Consectetuer adipiscing elit. */
+#n163_215 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* Sociis natoque penatibus et */
+#n163_216 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 100%;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+}
+
+/* 96139D68-9BD3-4B5D-A2E0-48257C74D515 */
+#n163_202 {
+    background: rgb(253, 247, 219);
+    width: 443px;
+    height: 443px;
+}
+
+/* 96139D68-9BD3-4B5D-A2E0-48257C74D515 */
+#n163_201 {
+    background-image: url('../assets/DRM_Icon_Exasasdsperteninterviews.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    width: 100%;
+    height: 443px;
+    max-width: 443px;
+    margin-left: 73px;
+    margin-top: -211px;
+}
+
+/* Landesärztekammer Bayern, Mühlbauerstr. 16, 81677 München */
+#n163_185 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 430px;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 60px;
+}
+
+/* Zuständige Ärztekammer: */
+#n163_186 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+}
+
+/* Zuständige Aufsichtsbehörde: */
+#n163_188 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+}
+
+/* Kassenärztliche Vereinigung Bayern, Elsenheimerstr. 86, 80687 München */
+#n163_189 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 60px;
+}
+
+/* Berufsbezeichnung: */
+#n163_191 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 470px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+}
+
+/* Ich führe die gesetzliche Berufsbezeichnung Arzt */
+#n163_192 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 60px;
+}
+
+/* Versicherungskammer Bayern */
+#n163_194 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+}
+
+/* Es besteht eine Berufshaftpflichtversicherung bei: */
+#n163_195 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 62px;
+}
+
+/* Räumlicher Geltungsbereich der Berufshaftpflichtversicherung: */
+#n163_197 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 62px;
+}
+
+/* Deutschland */
+#n163_198 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+}
+
+/* Impressum */
+#n163_199 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 206px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+}
+
+/* Rectangle 2 */
+#n163_176 {
+}
+
+/* Weiterbildungsordnung der Landesärztekammer Bayern */
+#n163_178 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 30.7813px;
+    max-width: 393px;
+    width: 100%;
+}
+
+/* Fortbildungsordnung der Landesärztekammer Bayern */
+#n163_179 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 30px;
+    max-width: 393px;
+}
+
+/* Heilberufekammergesetz des Landes Bayern */
+#n163_180 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 30px;
+    max-width: 393px;
+}
+
+/* Berufsordnung der Landesärztekammer Bayern */
+#n163_181 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 30px;
+    max-width: 393px;
+}
+
+/* h3_Berufsrechtliche Regelungen: */
+#n163_182 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 393px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+    margin-bottom: 55px;
+}
+
+/* Rectangle 3.36 */
+#n163_142 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.37 */
+#n163_143 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.38 */
+#n163_144 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.39 */
+#n163_145 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.50 */
+#n163_146 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.45 */
+#n163_147 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.46 */
+#n163_148 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.47 */
+#n163_149 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.48 */
+#n163_150 {
+    background: rgb(255, 90, 76);
+    width: 119px;
+    height: 113px;
+}
+
+/* Rectangle 3.40 */
+#n163_151 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.41 */
+#n163_152 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.51 */
+#n163_153 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.49 */
+#n163_154 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.42 */
+#n163_155 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.43 */
+#n163_156 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.44 */
+#n163_157 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* a */
+#n163_158 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 40px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* t */
+#n163_159 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* a */
+#n163_160 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 40px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* l */
+#n163_161 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 36px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* T */
+#n163_162 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* u */
+#n163_163 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 42px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* l */
+#n163_164 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 36px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* s */
+#n163_165 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* g */
+#n163_166 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 43px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* n */
+#n163_167 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 48px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* e */
+#n163_168 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 38px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* r */
+#n163_169 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 38px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* A */
+#n163_170 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 40px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* v */
+#n163_171 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 41px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* N */
+#n163_172 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 48px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* T */
+#n163_173 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.16 */
+#n163_108 {
+    background: rgb(255, 90, 76);
+    width: 119px;
+    height: 113px;
+}
+
+/* Rectangle 3.17 */
+#n163_109 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.35 */
+#n163_110 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.27 */
+#n163_111 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.28 */
+#n163_112 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.29 */
+#n163_113 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.30 */
+#n163_114 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.31 */
+#n163_115 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.32 */
+#n163_116 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.33 */
+#n163_117 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.22 */
+#n163_118 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.19 */
+#n163_119 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.20 */
+#n163_120 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.21 */
+#n163_121 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.25 */
+#n163_122 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.26 */
+#n163_123 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 113px;
+}
+
+/* Rectangle 3.34 */
+#n163_124 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 123px;
+}
+
+/* e */
+#n163_125 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 38px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* s */
+#n163_126 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* s */
+#n163_127 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* o */
+#n163_128 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 49px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* g */
+#n163_129 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 43px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* a */
+#n163_130 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 40px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* r */
+#n163_131 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 38px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* p */
+#n163_132 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* m */
+#n163_133 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 53px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* i */
+#n163_134 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 18px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.36 */
+#n163_135 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 113px;
+}
+
+/* O */
+#n163_136 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 49px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* o */
+#n163_137 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 49px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* u */
+#n163_138 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 42px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* m */
+#n163_139 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 53px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* k */
+#n163_140 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 39px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle */
+#n163_106 {
+}
+
+/* Rectangle */
+#n163_259 {
+    background: rgb(146, 218, 206);
+    height: 231px;
+    max-width: 679px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 116px;
+}
+
+/* Detail */
+#n163_261 {
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 53px;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+    height: 24px;
+}
+
+/* Group 9.1 */
+#n163_262 {
+    width: 37px;
+    height: 13px;
+}
+
+/* Vector 6 */
+#nI163_262-72_7 {
+}
+
+/* Vector 7 */
+#nI163_262-72_8 {
+}
+
+/* Sprechstunde */
+#n163_263 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 260px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+}
+
+/* Rectangle 5 */
+#n163_265 {
+    background: rgb(255, 255, 255);
+    width: 343px;
+    height: 347px;
+}
+
+/* DRM_DoktorPapi_Portrait_weiß */
+#n163_266 {
+    background-image: url('../assets/DRM_DoktorPapi_Portrait_wei%25C3%259F.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 303px;
+    height: 308px;
+    position: absolute;
+    bottom: 0;
+}
+
+/* Rectangle */
+#n163_268 {
+}
+
+/* Mein Angebot für dich: Der Heilraum для deine Familie */
+#n163_269 {
+    font-family: Pacifico;
+    font-size: 38px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 44.5313px;
+    height: 67px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+/* Rectangle */
+#n163_271 {
+}
+
+/* Referenzen */
+#n163_272 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 229px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+    margin-top: 190px;
+}
+
+/* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et */
+#n163_275 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 342px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 108px;
+}
+
+/* Maria */
+#n163_277 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 56px;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+    margin-left: 53px;
+}
+
+/* Rectangle 2.1 */
+#n163_279 {
+    background: rgb(196, 196, 196);
+    width: 116px;
+    height: 115px;
+}
+
+/* image */
+#n163_280 {
+    background-image: url('../assets/Mask%2520Group-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 116px;
+    height: 115px;
+}
+
+/* Aenean massa. Cum sociis natoque penatibus et */
+#n163_282 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 343px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 108px;
+}
+
+/* Nicole */
+#n163_284 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 62px;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 30px;
+    margin-left: 53px;
+}
+
+/* Rectangle 2.2 */
+#n163_286 {
+    background: rgb(196, 196, 196);
+    width: 116px;
+    height: 115px;
+}
+
+/* image */
+#n163_287 {
+    background-image: url('../assets/Mask%2520Group.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 116px;
+    height: 115px;
+}
+
+/* Rectangle 3.2 */
+#n163_289 {
+    background: rgb(14, 19, 75);
+    width: 116px;
+    height: 114px;
+}
+
+/* zurück */
+#n163_290 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.552;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 47px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Group 9.1 */
+#n163_291 {
+    width: 40px;
+    height: 14.0577px;
+}
+
+/* Vector 6 */
+#nI163_291-72_7 {
+}
+
+/* Vector 7 */
+#nI163_291-72_8 {
+}
+
+/* Rectangle 3.1 */
+#n163_293 {
+    background: rgb(14, 19, 75);
+    width: 116px;
+    height: 114px;
+}
+
+/* vorwärts */
+#n163_294 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.552;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 61px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Group 9.1 */
+#n163_295 {
+    width: 40px;
+    height: 14.0577px;
+}
+
+/* Vector 6 */
+#nI163_295-72_7 {
+}
+
+/* Vector 7 */
+#nI163_295-72_8 {
+}
+
+/* Rectangle 2 */
+#n163_298 {
+    background: rgb(196, 196, 196);
+    width: 1440px;
+    height: 575px;
+}
+
+/* Preis */
+#n163_299 {
+    font-family: Pacifico;
+    font-size: 697px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    opacity: 0.06;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 1440px;
+    height: 575px;
+    line-height: 816.797px;
+    overflow: hidden;
+}
+
+/* Rectangle 3 */
+#n163_301 {
+}
+
+/* Vector */
+#n163_303 {
+    width: 113px;
+    height: 3px;
+    object-fit: none;
+    margin-bottom: 45px;
+}
+
+/* begrenzte Plätze */
+#n163_304 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.55;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 198px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+    margin-bottom: 67px;
+}
+
+/* 4.99 € / Monat */
+#n163_305 {
+    align-items: normal;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 212px;
+    transform: translate(0px, -0.372001px);
+    line-height: 37.2px;
+    height: 37px;
+    margin-bottom: 37px;
+}
+
+/* 4.99 € / Monat Subset */
+#n163_305-5 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 37.2px;
+    letter-spacing: 0px;
+    align-items: normal;
+    color: rgb(255, 90, 76);
+}
+
+/* 4.99 € / Monat Subset */
+#n163_305-2 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 37.2px;
+    letter-spacing: 0px;
+    align-items: normal;
+    color: rgb(255, 90, 76);
+}
+
+/* 4.99 € / Monat Subset */
+#n163_305-3 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 37.2px;
+    letter-spacing: 0px;
+    align-items: normal;
+    color: rgb(14, 19, 75);
+}
+
+/* 9.99 € / nach 6 monaten */
+#n163_306 {
+    font-family: "Josefin Sans";
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.8;
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 290px;
+    transform: translate(0px, -0.312001px);
+    line-height: 31.2px;
+    height: 31px;
+    margin-bottom: 45px;
+}
+
+/* Component */
+#n163_307 {
+    width: 248px;
+    height: 57px;
+    background: rgb(146, 218, 206);
+    color: #0E134B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Begleiten Sie uns */
+#nI163_307-50_28 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: #0E134B;
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+}
+
+/* Preis */
+#n163_308 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 92px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+    margin-bottom: 88px;
+}
+
+/* Rectangle */
+#n163_310 {
+}
+
+/* Rectangle 3.22 */
+#n163_312 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 115px;
+}
+
+/* e */
+#n163_313 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 38px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.23 */
+#n163_314 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 115px;
+}
+
+/* T */
+#n163_315 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.25 */
+#n163_316 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 115px;
+}
+
+/* A */
+#n163_317 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 40px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.27 */
+#n163_318 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 115px;
+}
+
+/* T */
+#n163_319 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 34px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.28 */
+#n163_320 {
+    background: rgb(146, 218, 206);
+    width: 113px;
+    height: 115px;
+}
+
+/* N */
+#n163_321 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 48px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.29 */
+#n163_322 {
+    background: rgb(14, 19, 75);
+    width: 113px;
+    height: 115px;
+}
+
+/* O */
+#n163_323 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 49px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.30 */
+#n163_324 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 115px;
+}
+
+/* K */
+#n163_325 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 39px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.26 */
+#n163_326 {
+    background: rgb(255, 90, 76);
+    width: 113px;
+    height: 115px;
+}
+
+/* K */
+#n163_327 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 39px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Rectangle 3.24 */
+#n163_328 {
+    background: rgb(255, 223, 122);
+    width: 113px;
+    height: 115px;
+}
+
+/* r */
+#n163_329 {
+    font-family: "Josefin Sans";
+    font-size: 57px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 38px;
+    transform: translate(0px, -0.684003px);
+    line-height: 68.4px;
+    height: 68px;
+}
+
+/* Kontakte */
+#n163_330 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(255, 90, 76);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 177px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    height: 43px;
+}
+
+/* Vector */
+#n163_332 {
+    width: 113px;
+    height: 3px;
+    margin-top: 31px;
+    margin-bottom: 31px;
+    object-fit: none;
+}
+
+/* Telefon: 0 8161 411 22 E-Mail: Info@doktormami.de */
+#n163_333 {
+    align-items: normal;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 375px;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 60px;
+}
+
+/* Telefon: 0 8161 411 22 E-Mail: Info@doktormami.de Subset */
+#n163_333-0 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 25.7813px;
+    letter-spacing: 0px;
+    align-items: normal;
+}
+
+/* Telefon: 0 8161 411 22 E-Mail: Info@doktormami.de Subset */
+#n163_333-6 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 25.7813px;
+    letter-spacing: 0px;
+    align-items: normal;
+}
+
+/* Telefon: 0 8161 411 22 E-Mail: Info@doktormami.de Subset */
+#n163_333-undefined {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 25.7813px;
+    letter-spacing: 0px;
+    align-items: normal;
+}
+
+/* Desiree Ratay Haydstraße 9 86356 Freising */
+#n163_334 {
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 375px;
+    transform: translate(0px, 0px);
+    line-height: 25.7813px;
+    height: 90px;
+    margin-top: 43PX;
+}
+
+/* Mask Group */
+#n163_336 {
+    background-image: url('../assets/Group%252010.png');
+    background-repeat: no-repeat;
+    width: 828px;
+    height: 690px;
+    position: relative;
+}
+
+/* Rectangle 2.1 */
+#n163_338 {
+    background: rgb(255, 211, 187);
+    width: 116px;
+    height: 115px;
+}
+
+/* Karte */
+#n163_339 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.552;
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 41px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Group 9.1 */
+#n163_340 {
+    width: 40px;
+    height: 13px;
+}
+
+/* Vector 6 */
+#nI163_340-72_7 {
+}
+
+/* Vector 7 */
+#nI163_340-72_8 {
+}
+
+/* 7095-[Converted] */
+#n163_342 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/79cd/d94f/5031cd0fc54b3c49283389c573cca3bc?Expires=1557705600&Signature=QLewbzDQi8HFJ4bmMigpu~dIjunM0zT2wWq9PkenQWm0EbZCXv9gVXxAbRFnWuuxvBnU7sI76DfFRNMbNXqGm89crgCbjyQDK8T~sd90PSrEqr8fvaljTQ1k7p2NgsOO2dGWJGg2CYI7dGVB0Tavv-txnIhc5aEIiyL1-Efs~mHXleYeW-HQHRoD-lBZbl2kvUu5ob90wUoRGsD~trGnjc6Qp94yP4Vwk16DpnrxlF6TzfUqaKCUO-C7Drj4bcRZbpY-DgacVljkJazPTLNbDYR0n3J7QAkQTf~cYzwV~u1HxEPOzYxGEg0SwyBr30AN3byWPhAlsgfpORIMFkVCXw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* Rectangle 3 */
+#n163_343 {
+    background: rgb(255, 90, 76);
+    width: 297.934px;
+    height: 225.297px;
+}
+
+/* Rectangle */
+#n163_345 {
+    background: rgb(14, 19, 75);
+    width: 1440px;
+    height: 461px;
+}
+
+/* 0C756A99-B179-4C7B-93A2-EF43DA843E63 */
+#n163_346 {
+    background-image: url('../assets/0C756A99-B179-4C7B-93A2-EF43DA843E63.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 344px;
+    height: 345px;
+    position: relative;
+    display: flex;
+    align-self: flex-end;
+}
+
+/* Component */
+#n163_348 {
+    width: 248px;
+    height: 57px;
+    background: rgb(146, 218, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Begleiten Sie uns */
+#nI163_348-50_28 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+}
+
+/* Ich würde dich und deine Familie gerne begleiten, möchtest du dabei sein? */
+#n163_349 {
+    font-family: "Josefin Sans";
+    font-size: 43px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 632px;
+    transform: translate(0px, 0px);
+    line-height: 50.3906px;
+    margin-bottom: 46px;
+}
+
+/* Trag dich hier in den Newsletter ein */
+#n163_358 {
+    font-family: "Josefin Sans";
+    font-size: 31px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 501px;
+    transform: translate(0px, -0.372001px);
+    line-height: 37.2px;
+    height: 37px;
+}
+
+/* Du bekommst Informationen über neue Blogeinträg, Events, spezielle Ankündigen über Ereignisse im Mitgliederbereich und wird über all das am Laufenden gehalten, was Dr. Mami einzigartig macht! */
+#n163_359 {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    width: 584px;
+    transform: translate(0px, 0px);
+    line-height: 17.5781px;
+    height: 60px;
+}
+
+/* Component */
+#n163_352 {
+    width: 494px;
+    height: 57.041px;
+}
+
+/* Rectangle */
+#n163_353 {
+    background: rgb(146, 218, 206);
+    border-radius: 3px;
+}
+
+/* Rectangle */
+#n163_354 {
+    border-radius: 3px;
+    box-shadow: rgb(146, 218, 206) 0px 0px 0px 3px inset;
+}
+
+/* Folgen */
+#n163_355 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+    height: 20.0146px;
+}
+
+/* E-mail */
+#n163_356 {
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(14, 19, 75);
+    opacity: 0.5;
+    vertical-align: middle;
+    justify-content: flex-start;
+    transform: translate(0px, 0px);
+    line-height: 23.4375px;
+    height: 20.0127px;
+}
+
+/* Rectangle 2 */
+#n163_367 {
+    background: rgb(146, 218, 206);
+    width: 116px;
+    height: 115px;
+}
+
+/* 932199F9-5275-4467-B7F1-2DCBFA57B8E6 */
+#n163_368 {
+    background-image: url("https://s3-alpha-sig.figma.com/img/61ba/102a/94ff888c2e5f92015e6fab375ab51890?Expires=1557705600&Signature=PzUd~XngZDJJvX-iiw7~eQ-xFDJVByWZMwsLXA~haRLLSZrk6sSryNvthy7DWHVnpj3nM~PgcmfddViYI9UxZOUp~eH319bou7ISbN2S16Q61Dgvj7ctrwDqJQw6VGGyVE9Ew1E6AEsgDL9RGZKK66aBbeeI9y04L1y1GGiUp2u7-5XmghkBLLLdnBaMQyNtORtHILd4Ci6JFcN7Kc4an71YxESe9X0KkSejCmwkyToicdqyslOsd8yto94C-jXYMBXpgTE5pHeeAh6l9N6NWD984qR9sIspBUKUnrZnFl-zuVz2FDT3t792-UpbZzFdLhScPY~wnyzPgrW~3KkYqg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-repeat: no-repeat;
+    width: 88px;
+    height: 22px;
+}
+
+/* Disclaimer */
+#n163_363 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 76px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Impressum */
+#n163_364 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 82px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Datenschutz */
+#n163_365 {
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: rgb(146, 218, 206);
+    vertical-align: middle;
+    justify-content: flex-start;
+    width: 89px;
+    transform: translate(0px, 0px);
+    line-height: 18.75px;
+    height: 16px;
+}
+
+/* Rectangle */
+#n163_361 {
+    background: rgb(14, 19, 75);
+    width: 1440px;
+    height: 229px;
+}
+
+.grid_1_4_7 {
+    display: grid;
+    grid-template-columns: 1fr 4fr 7fr;
+    grid-template-rows: auto;
+    position: relative;
+}
+
+.ul_ex {
+}
+
+ul.ul_ex li {
+    list-style-type: none;
+    margin-left: 48px;
+}
+
+.bloglist {
+    margin-top: 27px;
+}
+
+.bloglist div {
+    margin-top: 39px;
+}
+
+.bloggglist {
+    margin-top: 56px;
+}
+
+.toppage {
+    width: 100%;
+    position: relative;
+    background: rgb(254, 245, 244);
+    height: 1380px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding-top: 86px;
+    max-width: 1440px;
+}
+
+.coments1 {
+    background: rgb(14, 19, 75);
+    height: 348px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: -345px;
+    margin-bottom: -345px;
+    justify-content: center;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.blog_rectangle {
+    background: rgb(146, 218, 206);
+    width: 117px;
+    height: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centre_social {
+}
+
+#n163_96 div {
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+.text_bio {
+    width: 100%;
+    height: 511px;
+    max-width: 463px;
+    margin-top: 111px;
+    margin-left: 106px;
+    margin-right: 10%;
+}
+
+#n163_72 div {
+    width: 100%;
+    height: 100%;
+    margin-top: 23px;
+}
+
+div#n163_72 div:before {
+    left: -13px;
+    width: 37px;
+    max-height: 90px;
+    content: '  ';
+    background: url(https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5902/cf63/b757905b73da1d5bcfc1b44ab7dff3f4);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 10px;
+}
+
+.sss:befor {
+}
+
+.block_was_mache_ich {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 5fr 7fr;
+    grid-template-rows: auto;
+    margin-top: 91px;
+}
+
+.about_event {
+    background: rgb(254, 245, 244);
+    height: 3414px;
+    position: relative;
+    top: -108px;
+    z-index: 0;
+}
+
+.max_widdth_1440_100 {
+    max-width: 1440px;
+    width: 100%;
+}
+
+.grid_5_7 {
+    display: grid;
+    grid-template-columns: 5fr 7fr;
+    grid-template-rows: auto auto auto;
+}
+
+.event_number {
+}
+
+.event_number div {
+    margin-bottom: 49px;
+}
+
+event_list {
+}
+
+.event_list {
+}
+
+.event_list div {
+    margin-bottom: 49px;
+}
+
+.speker {
+    background: rgb(255, 255, 255);
+    height: 923px;
+    position: relative;
+    float: none;
+    max-width: 1289px;
+    width: 100%;
+}
+
+.live_speaker {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 40px;
+}
+
+.special_leactor {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    width: 100%;
+}
+
+.live_specicdl {
+    display: flex;
+    width: 100%;
+    height: 146px;
+    margin-top: 81px;
+}
+
+.list_was_wird {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 92px;
+}
+
+.list_was_wird div:before {
+    content: "";
+    width: 7px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-clip: text;
+    position: relative;
+    background-image: url('https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/dceb/ea10/0757da0655c8b6fbf85ab6e22f0a47d1');
+    display: flex;
+    padding-right: 13px;
+    background-size: auto;
+}
+
+.list_was_wird div {
+    margin-right: 96px;
+    margin-bottom: 30px;
+}
+
+.buttom {
+    grid-area: 4 / 2 / 5 / 3;
+    background: rgb(231, 232, 237);
+    width: 116px;
+    height: 114px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vorsen {
+    background: rgb(173, 227, 218);
+    width: 905px;
+    height: 349px;
+}
+
+.grid_3_3 {
+}
+
+.list_vorsehen {
+    grid-area: 1 / 1 / 4 / 3;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 118px;
+    padding-right: 90px;
+    align-content: center;
+}
+
+.list_vorsehen div:before {
+    content: "";
+    width: 7px;
+    height: 13px;
+    background-repeat: no-repeat;
+    background-clip: text;
+    position: relative;
+    background-image: url('https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/dceb/ea10/0757da0655c8b6fbf85ab6e22f0a47d1');
+    display: flex;
+    padding-right: 13px;
+    background-size: auto;
+}
+
+.list_vorsehen div {
+    display: flex;
+    align-items: center;
+    margin-right: 36px;
+    padding-bottom: 28px;
+}
+
+.berufse {
+    background: #FFDF7A;
+    height: 690px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 612px;
+}
+
+.list_beruf div {
+    margin-bottom: 28px;
+}
+
+.list_impressum {
+    padding-right: 110px;
+    max-width: 528px;
+}
+
+.list_impressum > div {
+    margin-bottom: 43px;
+}
+
+.list_impressum > div > div {
+}
+
+.list_impressum p {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px;
+}
+
+.text_s {
+    background: rgb(14, 19, 75);
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1440px;
+    width: 100%;
+    margin-top: -107px;
+}
+
+.testeminials_ {
+    background: rgba(255, 223, 122, 0.25);
+    height: 924px;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.foto_testemonial {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 43px;
+}
+
+_buutom_testemon {
+    background: #0E134B;
+    opacity: 0.1;
+}
+
+.next {
+    width: 113px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 116px;
+    background: #FFE4CB;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.back_buttom {
+    width: 113px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 116px;
+    background: #E7E1CF;
+}
+
+.testemonial_face {
+    grid-area: 2 / 2 / 2 / 5;
+    display: grid;
+    grid-template-columns: 3fr 1fr 3fr;
+    grid-template-rows: auto;
+    margin-top: 105px;
+}
+
+.cost_card {
+    background: rgb(255, 231, 156);
+    width: 562px;
+    height: 805px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -115px;
+    margin-bottom: -115px;
+    position: relative;
+    z-index: 1;
+}
+
+.prise {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.karte {
+    background: rgb(254, 245, 244);
+    width: 1440px;
+    height: 920px;
+}
+
+.ich_werde {
+    background: rgb(14, 19, 75);
+    width: 1440px;
+    height: 461px;
+}
